@@ -31,7 +31,7 @@
 |11      | muss  | funktional| Als User möchte ich wenn man ein Hindernis oder ein Gegner wird das Spiel resetet.|
 | ...  |              |         |                   |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -44,7 +44,8 @@
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/111044296/203766353-50212203-1d61-4fad-a07c-e2055feba23a.png)
+
 
 ## 2 Planen
 
