@@ -22,7 +22,12 @@
 | 2  |    muss             |funktional      |Als User möchte ich die Hindernisse sehen können damit ich diesen ausweichen kann.                                     |
 | 3     |        muss    | funktional         |   Als User möchte ich sehen was mein Score ist|
 | 4     |muss              |  funktional       | Als User möchte ich  meine Gegner sehen können            | 
-|5     |muss        |funktional| Als User möchte ich sehen was mein Highscore ist.
+| 5     |kann  |funktional| Als User möchte ich sehen was mein Highscore ist.|
+| 6      | muss   | funktional | Als User möchte ich sehen das ich immer schneller werde so das das Spiel immer schwieriger wird.| 
+| 7      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben dass es angenehmer zum spielen ist.|
+| 8      | kann  | Qualität  | Als User möchte ich farben von meiner Figur auswählen.|
+| 9      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
+| 10     | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
 | ...  |              |         |                   |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
