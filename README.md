@@ -28,6 +28,7 @@
 | 8      | kann  | Qualität  | Als User möchte ich farben von meiner Figur auswählen.|
 | 9      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
 | 10     | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
+|11      | muss  | funktional| Als User möchte ich wenn man ein Hindernis oder ein Gegner wird das Spiel resetet.|
 | ...  |              |         |                   |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
