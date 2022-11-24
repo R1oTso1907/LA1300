@@ -12,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 ### 1.2 User Stories
 
