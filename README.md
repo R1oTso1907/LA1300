@@ -18,7 +18,7 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   muss          |funktional      |Als User möchte ich mich bewegen können, den Hindernissen und dem gegner ausweichen können.   |
+| 1    |   muss          |funktional      |Als User möchte ich mich bewegen können, den Hindernissen und dem Gegner ausweichen können.   |
 | 2  |    muss             |funktional      |Als User möchte ich die Hindernisse sehen können damit ich diesen ausweichen kann.                                     |
 | 3     |        muss    | funktional         |   Als User möchte ich sehen was mein Score ist|
 | 4     |muss              |  funktional       | Als User möchte ich  meine Gegner sehen können            | 
@@ -37,7 +37,18 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Das Spiel wurde gestartet            |  Steuerung       |    Der Character bewegt sich nach den Eingaben des Users.               |
+| 1.1  |  Das Spiel wurde gestartet            |  Steuerung       |   Der Character läuft von alleine               |
+| 1.2 | Das Spiel wurde gestartet | Leertaste | Der Character springt |
+|1.3  | Das Spiel wurde gestartet | Steuerung |  |
+
+
+
+
+
+
+
+
+
 | 2.2  |  Das Spiel wurde gestartet und der Character/User ist "gestorben"            |    -     |  Der User sieht seinen Score/Highscore.                 |
 |3.3| Der User spielt das Spiel | Steuerung | Der Character/die Hindernisse werden immer schneller-das Spiel wird schwieriger. |
 |  4.4| Der User ist in den Settings  | - | Der User kann einen Character auswählen/der Character sieht gut aus |
@@ -54,13 +65,13 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |1.12|Ben/Kilian |Visuelles Bild für Code|30 min|
-| 2.A  |1.12|Damian/Ensar |Bewegungungscode für Spiel|50 min|
-| 3.A  |1.12|Ben/Kilian |Gegner und Hindernisse|60 min|
-| 4.A  |8.12|Ben/Damian/Ensar/Kilian |Score Zähler|20 min|
-| 4.B  |8.12|Ben/Damian/Ensar/Kilian |High Score Speicher|35 min|
-| 5.A  |8.12|Ben/Damian/Ensar/Kilian |Spiel wird schneller| 25 min|
-| 6.A  |8.12|Ben/Damian/Ensar/Kilian |Regelmässige Änderung Farben| 15 min|
+| 1.A  |1.12| |Visuelles Bild für Code|30 min|
+| 2.A  |1.12| |Bewegungungscode für Spiel|50 min|
+| 3.A  |1.12| |Gegner und Hindernisse|60 min|
+| 4.A  |8.12| |Score Zähler|20 min|
+| 4.B  |8.12| |High Score Speicher|35 min|
+| 5.A  |8.12| |Spiel wird schneller| 25 min|
+| 6.A  |8.12| |Regelmässige Änderung Farben| 15 min|
 
 
 Total: 
