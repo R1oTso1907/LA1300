@@ -54,13 +54,13 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |1.12| |Visuelles bild für code|30 min|
+| 1.A  |1.12| |Visuelles Bild für Code|30 min|
 | 2.A  |1.12| |Bewegungungscode für Spiel|50 min|
-| 3.A  |1.12| |Gegner und hindernisse|60 min|
+| 3.A  |1.12| |Gegner und Hindernisse|60 min|
 | 4.A  |8.12| |Score Zähler|20 min|
 | 4.B  |8.12| |High Score Speicher|35 min|
 | 5.A  |8.12| |Spiel wird schneller| 25 min|
-| 6.A  |8.12| |Regelmässige änderung Farben| 15 min|
+| 6.A  |8.12| |Regelmässige Änderung Farben| 15 min|
 
 
 Total: 
