@@ -18,18 +18,15 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   muss          |funktional      |Als User möchte ich mich bewegen können, den Hindernissen und dem gegner ausweichen können.   |
-| 2  |    muss             |funktional      |Als User möchte ich die Hindernisse sehen können damit ich diesen ausweichen kann.                                     |
-| 3     |        muss    | funktional         |   Als User möchte ich sehen was mein Score ist|
-| 4     |muss              |  funktional       | Als User möchte ich  meine Gegner sehen können            | 
-| 5     |kann  |funktional| Als User möchte ich sehen was mein Highscore ist.|
-| 6      | muss   | funktional | Als User möchte ich sehen das ich immer schneller werde so das das Spiel immer schwieriger wird.| 
-| 7      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben dass es angenehmer zum spielen ist.|
-| 8      | kann  | Qualität  | Als User möchte ich Farben von meiner Figur auswählen.|
-| 9      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
-| 10     | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
-|11      | muss  | funktional| Als User möchte ich wenn man ein Hindernis oder ein Gegner wird das Spiel reseted.|
-| ...  |              |         |                   |
+| 1    |   muss          |funktional      |Als User möchte ich mich bewegen können und den Hindernissen ausweichen können.   |
+| 2  |    muss             |funktional      |Als User möchte ich die Hindernisse sehen können damit ich diesen ausweichen kann.                       |
+| 3     |        muss    | funktional         |   Als User möchte ich sehen was mein Score/Highscore ist| 
+| 4      | muss   | funktional | Als User möchte ich sehen das ich immer schneller werde, so dass das Spiel immer schwieriger wird.| 
+| 5      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben dass es angenehmer zum spielen ist.|
+| 6      | kann  | Qualität  | Als User möchte ich Farben von meiner Figur auswählen.|
+| 7      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
+| 8    | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
+
 
 
 
@@ -37,11 +34,25 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Das Spiel wurde gestartet            |  Steuerung       |    Der Character bewegt sich nach den Eingaben des Users.               |
-| 2.2  |  Das Spiel wurde gestartet und der Character/User ist "gestorben"            |    -     |  Der User sieht seinen Score/Highscore.                 |
-|3.3| Der User spielt das Spiel | Steuerung | Der Character/die Hindernisse werden immer schneller-das Spiel wird schwieriger. |
-|  4.4| Der User ist in den Settings  | - | Der User kann einen Character auswählen/der Character sieht gut aus |
-| 5.5 | Der USere hat das Spiel geöffnet | - | Der User hat einen Startscreen und wird nicht direkt in das Spiel geworfen |
+| 1.1  |  Das Spiel wurde gestartet            |  Steuerung     |    Der Character bewegt sich nach den Eingaben des Users.               |
+| 1.2 | Das Spiel wurde gestartet | Leertaste | Der Character springt über die Gegner. | 
+| 1.3 | Das Spiel wurde gestartet | Leertaste | Der Character weichte den Hindernissen aus. |
+| 2.1 |Der User spielt das Spiel | - | Der User sieht das Hinderniss 1. |
+| 2.2  | Der User spielt das Spiel |    -     |  Der User sieht das Hinderniss 2.              |
+|2.3| Der User spielt das Spiel | -|  Der User sieht das Hinderniss 3. |
+|  3.1|Der User spielt das Spiel  | - | Der User kann seinen Score sehen. |
+| 3.2 | Der User ist gestorben und im Menü | - | Der User kann seinen Highscore sehen. |
+| 3.3 | Der User ist gestorben und im Menü | - |  Der User kann seinen Overall Highscore sehen.|
+|4.1| Der User spielt das Spiel | - | Der Character wird immer schneller, je länger der User überlebt |
+|4.2| Der User spielt das Spiel  |  |  |
+|4.3|  |  |  |
+
+
+
+
+
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
