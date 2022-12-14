@@ -22,7 +22,7 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 | 2  |    muss             |funktional      |Als User möchte ich die Hindernisse sehen können damit ich diesen ausweichen kann.                       |
 | 3     |        muss    | funktional         |   Als User möchte ich sehen was mein Score/Highscore ist| 
 | 4      | muss   | funktional | Als User möchte ich sehen das ich immer schneller werde, so dass das Spiel immer schwieriger wird.| 
-| 5      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben dass es angenehmer zum spielen ist.|
+| 5      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben, dass es angenehmer zum spielen ist.|
 | 6      | kann  | Qualität  | Als User möchte ich Farben von meiner Figur auswählen.|
 | 7      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
 | 8    | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
@@ -43,10 +43,10 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 |  3.1|Der User spielt das Spiel  | - | Der User kann seinen Score sehen. |
 | 3.2 | Der User ist gestorben und im Menü | - | Der User kann seinen Highscore sehen. |
 | 3.3 | Der User ist gestorben und im Menü | - |  Der User kann seinen Overall Highscore sehen.|
-|4.1| Der User spielt das Spiel | - | Der Character wird immer schneller, je länger der User überlebt |
-|4.2| Der User spielt das Spiel  |  |  |
-|4.3|  |  |  |
-
+|4.1| Der User spielt das Spiel | - | Der Character wird immer schneller, je länger der User überlebt. |
+|4.2| Der User spielt das Spiel  | - | Der Character wird gleichmässig und stetig schneller.  |
+|4.3| Der User spielt das Spiel | - | Der Character wird nicht zu schnell schneller. |
+| 5.1 | Der User spielt das Spiel |  |  |
 
 
 
