@@ -26,6 +26,9 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 | 6      | kann  | Qualität  | Als User möchte ich Farben von meiner Figur auswählen.|
 | 7      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
 | 8    | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
+| 9|    kann | Qualität| Als User möchte ich in verschiedenen Maps spielen können.
+| 10| kann|   Qualität|  Als User möchte ich entscheiden können mit welchen Tasten ich spiele.|
+
 
 
 
