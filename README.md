@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-** Dango: Müller, Eisenring, Yildirim, Stäuble
+## Dango: Müller, Eisenring, Yildirim, Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
