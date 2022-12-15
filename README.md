@@ -1,12 +1,12 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+**Dango: Müller, Eisenring, Yildirim, Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|1.12.2022| 0.0.1 | In Zweiergruppen haben Wir mit Programmieren angefangen. wir haben die Grundlagen des Programmes geschrieben und die ersten Aufgaben der Projekt-Dokumentation erfüllt. |
+|8.12.2022| 0.0.2 | Von zuhause aus haben wir Entities ins Programm eingefügt zum Beispiel den Gorilla und die Fleischhindernisse. Es wurden zusätzlich noch mehr Testfälle Geschrieben.|
+|15.12.2022| 0.0.3 | Heute haben wir die restlichen Testfälle und mehrere Projekt-Dokumentationsaufgaben ergäntzt. Am Programm wurde auch gearbeitet so damit die Hindernisse zufällig auftauchen und dass der spieler nicht zu schnell ist. am ende der Stunde, haben wir unseren Fortschritt präsentiert. |
 
 ## 1 Informieren
 
