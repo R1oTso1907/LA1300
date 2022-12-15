@@ -13,7 +13,6 @@
 ### 1.1 Ihr Projekt
 
 In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
-
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -24,37 +23,43 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 | 4      | muss   | funktional | Als User möchte ich sehen das ich immer schneller werde, so dass das Spiel immer schwieriger wird.| 
 | 5      | kann | Randbedingung| Als User möchte ich eine schöne Figur haben, dass es angenehmer zum spielen ist.|
 | 6      | kann  | Qualität  | Als User möchte ich Farben von meiner Figur auswählen.|
-| 7      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel eingeworfen werden sondern dass ich vorbereitet bin.
-| 8    | kann  | Qualität |  Als User möchte ich mit mehreren Ebenen spielen.|
+| 7      | kann  | Qualität |  Als User möchte ich nicht gleich in das Spiel reingeworfen werden, sondern einen Start/Menü-Screen haben.
+| 8    | kann  | Qualität |  Als User möchte ich auf mehreren Ebenen spielen.|
 
 
 
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Das Spiel wurde gestartet            |  Steuerung     |    Der Character bewegt sich nach den Eingaben des Users.               |
+| TC-№ | Ausgangslage | Eingabe | Erwartete||
+| 1.1  |  Das Spiel wurde gestartet |  Steuerung     |    Der Character bewegt sich nach den Eingaben des Users.               |
 | 1.2 | Das Spiel wurde gestartet | Leertaste | Der Character springt über die Gegner. | 
 | 1.3 | Das Spiel wurde gestartet | Leertaste | Der Character weichte den Hindernissen aus. |
-| 2.1 |Der User spielt das Spiel | - | Der User sieht das Hinderniss 1. |
-| 2.2  | Der User spielt das Spiel |    -     |  Der User sieht das Hinderniss 2.              |
-|2.3| Der User spielt das Spiel | -|  Der User sieht das Hinderniss 3. |
-|  3.1|Der User spielt das Spiel  | - | Der User kann seinen Score sehen. |
-| 3.2 | Der User ist gestorben und im Menü | - | Der User kann seinen Highscore sehen. |
-| 3.3 | Der User ist gestorben und im Menü | - |  Der User kann seinen Overall Highscore sehen.|
-|4.1| Der User spielt das Spiel | - | Der Character wird immer schneller, je länger der User überlebt. |
-|4.2| Der User spielt das Spiel  | - | Der Character wird gleichmässig und stetig schneller.  |
-|4.3| Der User spielt das Spiel | - | Der Character wird nicht zu schnell schneller. |
-| 5.1 | Der User spielt das Spiel |  |  |
+| 2.1 |Der User spielt das Spiel |Leertaste| Der User sieht das Hinderniss 1. |
+| 2.2  | Der User spielt das Spiel |    Leertaste   |  Der User sieht das Hinderniss 2.              |
+|2.3| Der User spielt das Spiel |Leertaste|  Der User sieht das Hinderniss 3. |
+|  3.1|Der User spielt das Spiel  | Leertaste| Der User kann seinen Score sehen. |
+| 3.2 | Der User ist gestorben und im Menü | Leertaste | Der User kann seinen Highscore sehen. |
+| 3.3 | Der User ist gestorben und im Menü | Leertaste |  Der User kann seinen Overall Highscore sehen.|
+|4.1| Der User spielt das Spiel | Leertaste| Der Character wird immer schneller, je länger der User überlebt. |
+|4.2| Der User spielt das Spiel  | Leertaste | Der Character wird gleichmässig und stetig schneller.  |
+|4.3| Der User spielt das Spiel |Leertaste | Der Character wird nicht zu schnell schneller. |
+| 5.1 | Der User spielt das Spiel |Leertaste| Der User hat einen anschaulichen Skin.|
+|5.2| Der User spielt das Spiel | Leertaste | Der Skin passt zum Thema des Spiels. |
+| 5.3 | Der User spielt das Spiel | Leertaste | Der Skin passt sich in Drehungen der Steuerung des Users an. |
+|6.1| Der User ist im Menü | Maus | Der User hat eine Auswahl an Skins. |
+| 6.2 | Der User ist im Menü | Maus | Die Skins haben verschiedene Farben. |
+| 6.3 | Der User ist im Menü | Maus | Der User kann die verschiedenen Skins auswählen. |
+| 7.1 | Der User hat das Spiel gelauncht | Maus | Der User wird nicht direkt in eine Spielrunde geworfen. |
+| 7.2 | Der User hat das Spiel gelauncht | Maus | Der User sieht einen Menü/Start-screen. |
+| 7.3 | Der User hat das Spiel gelauncht | Maus | Der User kann die einzelnen Auswahlmöglichkeiten klicken und diese reagieren. |
+| 8.1 | Der User spielt das Spiel | Leertaste |  Der User kann sieht die einzelnen Ebenen. |
+| 8.2 | Der User spielt das Spiel | Leertaste | Der User kann vom Boden auf die Ebene springen. |
+| 8.3 | Der User spielt das Spiel | Leertaste | Der User kann von der Ebene wieder auf den Boden springen. |
 
 
 
 
-
-
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
