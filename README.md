@@ -38,16 +38,27 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 | 1.1  |  Das Spiel wurde gestartet            |  Steuerung     |    Der Character bewegt sich nach den Eingaben des Users.               |
 | 1.2 | Das Spiel wurde gestartet | Leertaste | Der Character springt über die Gegner. | 
 | 1.3 | Das Spiel wurde gestartet | Leertaste | Der Character weichte den Hindernissen aus. |
-| 2.1 |Der User spielt das Spiel | - | Der User sieht das Hinderniss 1. |
-| 2.2  | Der User spielt das Spiel |    -     |  Der User sieht das Hinderniss 2.              |
-|2.3| Der User spielt das Spiel | -|  Der User sieht das Hinderniss 3. |
-|  3.1|Der User spielt das Spiel  | - | Der User kann seinen Score sehen. |
-| 3.2 | Der User ist gestorben und im Menü | - | Der User kann seinen Highscore sehen. |
-| 3.3 | Der User ist gestorben und im Menü | - |  Der User kann seinen Overall Highscore sehen.|
-|4.1| Der User spielt das Spiel | - | Der Character wird immer schneller, je länger der User überlebt. |
-|4.2| Der User spielt das Spiel  | - | Der Character wird gleichmässig und stetig schneller.  |
-|4.3| Der User spielt das Spiel | - | Der Character wird nicht zu schnell schneller. |
-| 5.1 | Der User spielt das Spiel |  |  |
+| 2.1 |Der User spielt das Spiel |Leertaste| Der User sieht das Hinderniss 1. |
+| 2.2  | Der User spielt das Spiel |    Leertaste   |  Der User sieht das Hinderniss 2.              |
+|2.3| Der User spielt das Spiel |Leertaste|  Der User sieht das Hinderniss 3. |
+|  3.1|Der User spielt das Spiel  | Leertaste| Der User kann seinen Score sehen. |
+| 3.2 | Der User ist gestorben und im Menü | Leertaste | Der User kann seinen Highscore sehen. |
+| 3.3 | Der User ist gestorben und im Menü | Leertaste |  Der User kann seinen Overall Highscore sehen.|
+|4.1| Der User spielt das Spiel | Leertaste| Der Character wird immer schneller, je länger der User überlebt. |
+|4.2| Der User spielt das Spiel  | Leertaste | Der Character wird gleichmässig und stetig schneller.  |
+|4.3| Der User spielt das Spiel |Leertaste | Der Character wird nicht zu schnell schneller. |
+| 5.1 | Der User spielt das Spiel |Leertaste| Der User hat einen anschaulichen Skin.|
+|5.2| Der User spielt das Spiel | Leertaste | Der Skin passt zum Thema des Spiels. |
+| 5.3 | Der User spielt das Spiel | Leertaste | Der Skin passt sich in Drehungen der Steuerung des Users an. |
+|6.1| Der User ist im Menü | Maus | Der User hat eine Auswahl an Skins. |
+| 6.2 | Der User ist im Menü | Maus | Die Skins haben verschiedene Farben. |
+| 6.3 | Der User ist im Menü | Maus | Der User kann die verschiedenen Skins auswählen. |
+| 7.1 | Der User hat das Spiel gelauncht | Maus | Der User wird nicht direkt in eine Spielrunde geworfen. |
+| 7.2 | Der User hat das Spiel gelauncht | Maus | Der User sieht einen Menü/Start-screen. |
+| 7.3 | Der User hat das Spiel gelauncht | Maus | Der User kann die einzelnen Auswahlmöglichkeiten klicken und diese reagieren. |
+| 8.1 | Der User spielt das Spiel | Leertaste |  Der User kann sieht die einzelnen Ebenen. |
+| 8.2 | Der User spielt das Spiel | Leertaste | Der User kann vom Boden auf die Ebene springen. |
+| 8.3 | Der User spielt das Spiel | Leertaste | Der User kann von der Ebene wieder auf den Boden springen. |
 
 
 ### 1.4 Diagramme
@@ -128,6 +139,12 @@ Total:
 | 4.1  | 22.12|funktioniert  | Damian Eisenring |
 | 4.2  | 22.12|funktioniert  | Damian Eisenring |
 | 4.3  | 22.12|funktioniert  | Damian Eisenring |
+| 5.1  | 22.12|funktioniert  | Damian Eisenring |
+| 5.2  | 22.12|funktioniert  | Damian Eisenring |
+| 5.3  | 22.12|funktioniert  | Damian Eisenring |
+| 6.1 | 22.12|funktioniert  | Damian Eisenring |
+| 6.2| 22.12|funktioniert  | Damian Eisenring |
+|6.3 | 22.12|funktioniert  | Damian Eisenring |
 | 5.1  | 22.12|funktioniert  | Damian Eisenring |
 | ...  |       |          |        |
 
