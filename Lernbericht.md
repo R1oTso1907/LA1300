@@ -1,9 +1,10 @@
-#Lernberich
+# Lernbericht
 
 Yildirim,Stäuble,Eisenring,Müller
 
-#Einleitung
+# Einleitung
 Wir haben ein side-scroller spiel programmiert, namens Vegi-run.
 
-#Was habe ich gelernt?
+# Was habe ich gelernt?
+
 
