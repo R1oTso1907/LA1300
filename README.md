@@ -134,28 +134,26 @@ Total:
 | 2.2  | 22.12|funktioniert  | Damian Eisenring |
 | 2.3  | 22.12|funktioniert  | Damian Eisenring |
 | 3.1  | 22.12|funktioniert  | Damian Eisenring |
-| 3.2  | 22.12|funktioniert  | Damian Eisenring |
-| 3.3  | 22.12|funktioniert  | Damian Eisenring |
+| 3.2  | 22.12|funktioniert nicht  | Damian Eisenring |
+| 3.3  | 22.12|funktioniert nicht| Damian Eisenring |
 | 4.1  | 22.12|funktioniert  | Damian Eisenring |
 | 4.2  | 22.12|funktioniert  | Damian Eisenring |
 | 4.3  | 22.12|funktioniert  | Damian Eisenring |
 | 5.1  | 22.12|funktioniert  | Damian Eisenring |
 | 5.2  | 22.12|funktioniert  | Damian Eisenring |
 | 5.3  | 22.12|funktioniert  | Damian Eisenring |
-| 6.1 | 22.12|funktioniert  | Damian Eisenring |
-| 6.2| 22.12|funktioniert  | Damian Eisenring |
-|6.3 | 22.12|funktioniert  | Damian Eisenring |
+| 6.1 | 22.12|funktioniert nicht | Damian Eisenring |
+| 6.2| 22.12|funktioniert nicht | Damian Eisenring |
+|6.3 | 22.12|funktioniert nicht | Damian Eisenring |
 |7.1  | 22.12|funktioniert  | Damian Eisenring |
 |7.2  | 22.12|funktioniert  | Damian Eisenring |
 |7.3  | 22.12|funktioniert  | Damian Eisenring |
-|8.1  | 22.12|funktioniert  | Damian Eisenring |
-|8.2  | 22.12|funktioniert  | Damian Eisenring |
-|8.3  | 22.12|funktioniert  | Damian Eisenring |
+|8.1  | 22.12|funktioniert nicht  | Damian Eisenring |
+|8.2  | 22.12|funktioniert nicht | Damian Eisenring |
+|8.3  | 22.12|funktioniert nicht | Damian Eisenring |
 | ...  |       |          |        |
 
-
-
+Wir konnten viele Testfälle umsetzten, leider konnten wir nicht alles Grafisch umsetzten wie wir wollten. Ausserdem konnten wir das Prinzip mit dem Highscore umsetzten. Sonst verlief alle Testfälle umsetzten.
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht](https://github.com/R1oTso1907/LA1300/blob/main/Lernbericht.md)
