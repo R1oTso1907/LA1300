@@ -116,10 +116,22 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 22.12|funktioniert  | Damian Eisenring |
+| 1.2  | 22.12|funktioniert  | Damian Eisenring |
+| 1.3| 22.12|funktioniert  | Damian Eisenring |
+| 2.1  | 22.12|funktioniert  | Damian Eisenring |
+| 2.2  | 22.12|funktioniert  | Damian Eisenring |
+| 2.3  | 22.12|funktioniert  | Damian Eisenring |
+| 3.1  | 22.12|funktioniert  | Damian Eisenring |
+| 3.2  | 22.12|funktioniert  | Damian Eisenring |
+| 3.3  | 22.12|funktioniert  | Damian Eisenring |
+| 4.1  | 22.12|funktioniert  | Damian Eisenring |
+| 4.2  | 22.12|funktioniert  | Damian Eisenring |
+| 4.3  | 22.12|funktioniert  | Damian Eisenring |
+| 5.1  | 22.12|funktioniert  | Damian Eisenring |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 
 ## 6 Auswerten
