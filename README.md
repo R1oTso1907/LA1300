@@ -90,6 +90,22 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.C  |       |           |               |                   |
+| 2.A  |       |           |               |                   |
+| 2.B  |       |           |               |                   |
+| 2.C  |       |           |               |                   |
+| 3.A  |       |           |               |                   |
+| 3.B  |       |           |               |                   |
+| 3.C  |       |           |               |                   |
+| 4.A  |       |           |               |                   |
+| 4.B  |       |           |               |                   |
+| 5.A  |       |           |               |                   |
+| 5.B  |       |           |               |                   |
+| 6.A  |       |           |               |                   |
+| 6.B  |       |           |               |                   |
+| 6.C  |       |           |               |                   |
+| 7.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
