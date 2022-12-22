@@ -94,7 +94,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden alle User-Stories umzusetzen und die verschiedenen Charaktere am Schluss zu gestalten als Bonus, falls noch Zeit zur Verfügung stände.
 
 ## 4 Realisieren
 
