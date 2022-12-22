@@ -145,7 +145,12 @@ Total:
 | 6.1 | 22.12|funktioniert  | Damian Eisenring |
 | 6.2| 22.12|funktioniert  | Damian Eisenring |
 |6.3 | 22.12|funktioniert  | Damian Eisenring |
-| 5.1  | 22.12|funktioniert  | Damian Eisenring |
+|7.1  | 22.12|funktioniert  | Damian Eisenring |
+|7.2  | 22.12|funktioniert  | Damian Eisenring |
+|7.3  | 22.12|funktioniert  | Damian Eisenring |
+|8.1  | 22.12|funktioniert  | Damian Eisenring |
+|8.2  | 22.12|funktioniert  | Damian Eisenring |
+|8.3  | 22.12|funktioniert  | Damian Eisenring |
 | ...  |       |          |        |
 
 
