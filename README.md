@@ -89,7 +89,7 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms.
 | 7.A  |8.12| Ensar/Kilian |Spawnschutz für den Spieler, falls ein Hinderniss in ihm spawned| 15 min|
 
 
-Total: 
+Total: 7h 45 
 
 
 ## 3 Entscheiden
