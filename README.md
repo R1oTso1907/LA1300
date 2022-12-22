@@ -64,16 +64,16 @@ In unserem Projekt programmieren wir ein Ausweichspiel mit WinForms
 | 1.C  |1.12|Ben/Kilian |Visuelles Bild für den Gegner in der Luft|30 min|
 | 2.A  |1.12|Damian/Ensar |Die Figur bewegt sich autmatisch richtung rechts|50 min|
 | 2.B  |1.12|Damian/Ensar |Die Figur kann sprigen|50 min|
-| 2.C |1.12|Damian/Ensar |Die Figur wird sollte über die Zeit schneller werden|20|
+| 2.C |1.12|Damian/Ensar |Die Figur wird sollte über die Zeit schneller werden|20 min |
 | 3.A  |1.12|Ben/Kilian |Gegner und Hindernisse werden angezeigt|30 min|
 | 3.B  |1.12|Ben/Kilian |Wenn Gegner und Hindernisse sich mit der Figur berühren endet das Spiel.|30 min|
 | 3.C  |1.12|Ben/Kilian |Gegner und Hindernisse bewegen sich automatisch|30 min|
-| 4.A  |8.12|Ben/Damian/Ensar/Kilian |Score Zähler|20 min|
-| 4.B  |8.12|Ben/Damian/Ensar/Kilian |High Score Speicher|35 min|
+| 4.A  |8.12|Damian/Ensar |Score Zähler|20 min|
+| 4.B  |8.12|Damian/Ensar |High Score Speicher|35 min|
 | 5.A  |8.12| Ensar/Kilian |Startmenu designen| 15 min|
 | 5.B  |8.12| Ensar/Kilian |Möglich machen aus dem Startmenu entweder zu spielen oder sich in ein Hilfemenu zu bewegen| 15 min|
-| 6.A  |8.12|Ben/Damian/Ensar/Kilian |Aufrufen eines Menus zur Hilfe sollte möglich sein.| 25 min|
-| 6.B |8.12|Ben/Damian |Menu gestallten| 25 min|
+| 6.A  |8.12|Ben/Damian |Aufrufen eines Menus zur Hilfe sollte möglich sein.| 25 min|
+| 6.B |8.12|Ben/Damian |Menu gestallten|25 min|
 | 6.C |8.12|Ben/Damian |Möglich machen das man aus dem Menu zurück in das Spiel kommt.| 15 min|
 | 7.A  |8.12| Ensar/Kilian |Spawnschutz für den Spieler, falls ein Hinderniss in ihm spawned| 15 min|
 
@@ -89,26 +89,26 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 1.B  |       |           |               |                   |
-| 1.C  |       |           |               |                   |
-| 2.A  |       |           |               |                   |
-| 2.B  |       |           |               |                   |
-| 2.C  |       |           |               |                   |
-| 3.A  |       |           |               |                   |
-| 3.B  |       |           |               |                   |
-| 3.C  |       |           |               |                   |
-| 4.A  |       |           |               |                   |
-| 4.B  |       |           |               |                   |
-| 5.A  |       |           |               |                   |
-| 5.B  |       |           |               |                   |
-| 6.A  |       |           |               |                   |
-| 6.B  |       |           |               |                   |
-| 6.C  |       |           |               |                   |
-| 7.A  |       |           |               |                   |
+| 1.A  |1.12|  Ben/Kilian    |30 min| 30min|
+| 1.B  | 1.12 | Ben/Kilian | 30 min | 40min|
+| 1.C  | 1.12| Ben/Kilian |  30 min |  30min   |
+| 2.A  | 1.12 | Damian/Ensar |50 min | 55min   |
+| 2.B  | 1.12 |  Damian/Ensar |50 min |40min |
+| 2.C  |  1.12| Damian/Ensar | 20 min |20min|
+| 3.A  | 1.12 | Ben/Kilian |30 min  |35min|
+| 3.B  | 1.12 | Ben/Kilian |  30 min | 25min  |
+| 3.C  | 1.12  | Ben/Kilian  |30 min  |30min   |
+| 4.A  |8.12 | Damian/Ensar | 20 min  |20min   |
+| 4.B  |  8.12 |  Damian/Ensar  |35 min  |  30min  |
+| 5.A  |8.12| Ensar/Kilian |  15 min |20min |
+| 5.B  |8.12|  Ensar/Kilian | 15 min  | 20min|
+| 6.A  | 8.12| Ben/Damian |  25 min     |30min    |
+| 6.B  |8.12 | Ben/Damian  |  25 min   | 20min  |
+| 6.C  |8.12|Ben/Damian  |  15 min    | 15min |
+| 7.A  | 8.12 |  Ensar/Kilian  | 15 min | 10min  |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
